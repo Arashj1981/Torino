@@ -1,0 +1,36 @@
+D:\c#\project TORINO\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\project TORINO\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.AssemblyInfoInputs.cache
+D:\c#\project TORINO\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.AssemblyInfo.cs
+D:\c#\project TORINO\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.csproj.CoreCompileInputs.cache
+D:\c#\project TORINO\Torino\Torino.Domain\bin\Debug\net9.0\Torino.Domain.deps.json
+D:\c#\project TORINO\Torino\Torino.Domain\bin\Debug\net9.0\Torino.Domain.dll
+D:\c#\project TORINO\Torino\Torino.Domain\bin\Debug\net9.0\Torino.Domain.pdb
+D:\c#\project TORINO\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.dll
+D:\c#\project TORINO\Torino\Torino.Domain\obj\Debug\net9.0\refint\Torino.Domain.dll
+D:\c#\project TORINO\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.pdb
+D:\c#\project TORINO\Torino\Torino.Domain\obj\Debug\net9.0\ref\Torino.Domain.dll
+C:\Users\Arash\source\repos\Torino\Torino.Domain\bin\Debug\net9.0\Torino.Domain.deps.json
+C:\Users\Arash\source\repos\Torino\Torino.Domain\bin\Debug\net9.0\Torino.Domain.dll
+C:\Users\Arash\source\repos\Torino\Torino.Domain\bin\Debug\net9.0\Torino.Domain.pdb
+C:\Users\Arash\source\repos\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.csproj.AssemblyReference.cache
+C:\Users\Arash\source\repos\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arash\source\repos\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.AssemblyInfoInputs.cache
+C:\Users\Arash\source\repos\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.AssemblyInfo.cs
+C:\Users\Arash\source\repos\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Arash\source\repos\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.sourcelink.json
+C:\Users\Arash\source\repos\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.dll
+C:\Users\Arash\source\repos\Torino\Torino.Domain\obj\Debug\net9.0\refint\Torino.Domain.dll
+C:\Users\Arash\source\repos\Torino\Torino.Domain\obj\Debug\net9.0\Torino.Domain.pdb
+C:\Users\Arash\source\repos\Torino\Torino.Domain\obj\Debug\net9.0\ref\Torino.Domain.dll
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\bin\Debug\net9.0\Torino.Domain.deps.json
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\bin\Debug\net9.0\Torino.Domain.dll
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\bin\Debug\net9.0\Torino.Domain.pdb
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\obj\Debug\net9.0\Torino.Domain.csproj.AssemblyReference.cache
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\obj\Debug\net9.0\Torino.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\obj\Debug\net9.0\Torino.Domain.AssemblyInfoInputs.cache
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\obj\Debug\net9.0\Torino.Domain.AssemblyInfo.cs
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\obj\Debug\net9.0\Torino.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\obj\Debug\net9.0\Torino.Domain.dll
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\obj\Debug\net9.0\refint\Torino.Domain.dll
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\obj\Debug\net9.0\Torino.Domain.pdb
+C:\Users\Arash\source\FORRESUME\TORINO\Torino.Domain\obj\Debug\net9.0\ref\Torino.Domain.dll
