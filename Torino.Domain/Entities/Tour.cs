@@ -55,6 +55,9 @@ namespace Torino.Domain.Entities
         public ICollection<Survey> Surveys { get; private set; } = new List<Survey>();
         public ICollection<TourImage> TourImages { get; private set; } = new List<TourImage>();
 
+        public ICollection<Reservatioan> Reservatioans { get; private set; } = new List<Reservatioan>();
+
+
         public Tour(
                 string tourOrigin,
                 string title,

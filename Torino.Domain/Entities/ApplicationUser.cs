@@ -35,7 +35,7 @@ namespace Torino.Domain.Entities
         public ICollection<Comment> Comments { get; private set; } = new List<Comment>();
         public ICollection<UserFavourite> UserFavourites { get; private set; } = new List<UserFavourite>();
         public ICollection<Reservatioan> Reservatioans { get; private set; } = new List<Reservatioan>();
-        public ICollection<Ticket> Ticket { get; private set; } = new List<Ticket>();
+        
 
         public ICollection<Survey> Surveys { get; private set; } = new List<Survey>();
 

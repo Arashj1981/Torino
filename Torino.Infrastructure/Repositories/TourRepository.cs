@@ -16,7 +16,7 @@ namespace Torino.Infrastructure.Repositories
         }
         public async Task AddAsync(Tour tour)
         {
-            await _context.AddAsync(tour);
+            await _context.Tours.AddAsync(tour);
             await _context.SaveChangesAsync();
         }
 
