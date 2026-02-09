@@ -28,5 +28,12 @@ namespace Torino.Infrastructure.Repositories
            return await _context.Tickets
                 .CountAsync(t => t.TourId == tourId);
         }
+
+        public async Task<List<Ticket>> GetTicketsByReservationAsync(Guid reservationId)
+        {
+            return await _context.Tickets
+                .Where(t => t.ReservatioanId == reservationId)
+                .ToListAsync();
+        }
     }
 }

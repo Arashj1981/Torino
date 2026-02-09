@@ -17,6 +17,10 @@ namespace Torino.Domain.Interfaces
 
         Task UpdateAsync(Reservatioan reservation);
 
+        Task<Reservatioan?> GetReservationWithDetailsAsync(Guid id);
+
+        Task<bool> HasActiveReservationAsync(string userId, Guid tourId);
+
 
     }
 }

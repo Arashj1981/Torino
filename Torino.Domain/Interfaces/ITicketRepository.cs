@@ -12,5 +12,7 @@ namespace Torino.Domain.Interfaces
         Task<int> GetTourTicketCountAsync(Guid tourId);
 
         Task AddRangeAsync(IEnumerable<Ticket> tickets);
+
+        Task<List<Ticket>> GetTicketsByReservationAsync(Guid reservationId);
     }
 }

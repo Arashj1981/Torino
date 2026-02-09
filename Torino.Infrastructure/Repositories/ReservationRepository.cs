@@ -26,7 +26,7 @@ namespace Torino.Infrastructure.Repositories
         public async Task<Reservatioan?> GetByIdAsync(Guid id)
         {
             return await _context.Reservatioans.FindAsync(id);
-            
+
         }
 
         public async Task<List<Reservatioan>> GetByUserIdAsync(string userId)
@@ -42,6 +42,22 @@ namespace Torino.Infrastructure.Repositories
         {
             _context.Reservatioans.Update(reservation);
             await _context.SaveChangesAsync();
+        }
+
+        public async Task<Reservatioan?> GetReservationWithDetailsAsync(Guid id)
+        {
+            return await _context.Reservatioans
+                .Include(r => r.Tour)
+                .Include(r => r.Tickets)
+                .FirstOrDefaultAsync(r => r.Id == id);
+        }
+
+        public async Task<bool> HasActiveReservationAsync(string userId, Guid tourId)
+        {
+            return await _context.Reservatioans
+                .AnyAsync(r => r.UserId == userId &&
+                              r.TourId == tourId &&
+                              r.Status != "cancelled");
         }
     }
 }
