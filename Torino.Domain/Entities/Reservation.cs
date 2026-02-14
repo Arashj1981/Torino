@@ -33,6 +33,7 @@ namespace Torino.Domain.Entities
         // public Payment? payment   //هر رزرو یک پرداخت یا پرداخت نشده
 
         public Reservatioan(
+            
                 DateTime bookingDate,
                 int numberOfPepole,
                 decimal totalPrice,

@@ -51,10 +51,11 @@
 
     public enum TicketStatus
     {
-        Issued = 0,
-        Cancelled = 1,
-        Used = 2,
-        Expired = 3
+        Pending = 0 ,
+        Issued = 1,
+        Cancelled = 2,
+        Used = 3,
+        Expired = 4
     }
 
     public enum PaymentStatus
